@@ -1,0 +1,13 @@
+{
+  "pack": {
+    "description": "Minecraftlelu poka Poczonkaxles",
+    "pack_format": 64
+  },
+  "language": {
+    "qpc_xp": {
+      "name": "Poczonkaxles",
+      "region": "Poczonkusi",
+      "bidirectional": false
+    }
+  }
+}

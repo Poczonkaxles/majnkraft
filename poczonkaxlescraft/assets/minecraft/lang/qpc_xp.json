@@ -1,0 +1,23 @@
+{
+"menu.singleplayer": "Lelanolme yn",
+"menu.multiplayer": "Lelanolmere",
+"menu.options": "Teleszokxare",
+"selectWorld.title": "Teleszo szejsze",
+"selectWorld.create": "Exitma szejsze",
+"selectWorld.edit": "Trasfoxme",
+"selectWorld.delete": "Alisan",
+"selectWorld.select": "Teleszo",
+"selectWorld.recreate": "Exitma bera szjesze ni",
+"selectServer.select": "Teleszo",
+"selectServer.add": "Exitma",
+"selectServer.delete": "Alisan",
+"selectServer.edit": "Trasfoxme",
+"createWorld.preparing": "An sereta exitma szejsze",
+"options.sounds": "Mjeu",
+"options.language": "Paxles",
+"options.resourcepack": "Kuti vicz",
+"options.controls": "Nupu",
+"gui.back": "Vexa",
+"gui.done": "Saxete",
+"gui.cancel": "Saxete"
+}
